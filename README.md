@@ -17,6 +17,7 @@
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=CSS&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white)
 ![ArkTS](https://img.shields.io/badge/ArkTS-0A59F7?style=flat-square&logo=Huawei&logoColor=white)
 
