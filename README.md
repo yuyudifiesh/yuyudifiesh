@@ -29,4 +29,5 @@
 
 #### 工作环境
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-24ABF2?style=flat-square&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-24ABF2?style=flat-square&logo=Android&logoColor=white)
 ![DevEco Studio](https://img.shields.io/badge/DevEco%20Studio-0A59F7?style=flat-square&logo=Huawei&logoColor=white)
