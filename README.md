@@ -5,7 +5,7 @@
 ## 喜欢玩的游戏😋 · Games
 `明日方舟Arknights` `Phigros` `Minecraft`
 
-明日方舟有没有中国大陆官服的博士ww，加个好友求求了：Fishh#9019    
+有没有明日方舟中国大陆官服的博士ww，加个好友求求了：Fishh#9019    
 Are there any players in the Arknights Chinese mainland official server? Add a friend please: Fishh #9019
 
 ## 技术列表 · Skills
